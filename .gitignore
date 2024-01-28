@@ -33,3 +33,4 @@
 
 # IDE generated files
 .idea
+cmake-build-*
